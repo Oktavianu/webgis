@@ -162,7 +162,7 @@
 			});
 			map.addControl(controlSearch);
 
-			////////////populate map with markers from sample datall
+			////////////populate map with markers from sample datall juga akaks
 			for(i in data) {
 				var title = data[i].title,	//value searched
 					loc = data[i].loc,		//position found
