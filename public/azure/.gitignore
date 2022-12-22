@@ -1,0 +1,4 @@
+# Directories to ignore
+js/
+node_modules/
+test/lib/
